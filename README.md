@@ -8,7 +8,7 @@ A brief description of what this project does and who it's for
 
 ## preview
 
-[Insert gif or link to demo](https://vindiarputra.github.io/weather-io/)
+[Weather App](https://vindiarputra.github.io/weather-io/)
 
 ## Features
 

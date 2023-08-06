@@ -6,9 +6,9 @@ A brief description of what this project does and who it's for
 
 **Client:** HTML, CSS, JavaScript, API
 
-## Demo
+## preview
 
-Insert gif or link to demo
+[Insert gif or link to demo](https://vindiarputra.github.io/weather-io/)
 
 ## Features
 
